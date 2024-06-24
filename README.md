@@ -12,7 +12,8 @@
 <code>python crack.py</code><br>
 <img src='https://github.com/ITPrototype/hash_cracker_lite/blob/main/project.PNG'><br>
 <p>Hashni kiritamiz</p>
-<p>Kutamiz</p>
+<p>Generatorga kalit so'zlarni kiritamiz va u bizni so'zlarimizdan wordlist yasaydi</p>
+<p>Va buyogiga kutamiz</p>
 <img src='https://github.com/ITPrototype/hash_cracker_lite/blob/main/project2.PNG'>
 <p>Natija!</p>
 

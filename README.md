@@ -10,10 +10,10 @@
 <p>Masalan usernamesi Kamron degan user bor va uni hashlangan paroli bor</p>
 <p>Dasturni ishga tushiramiz:</p>
 <code>python crack.py</code><br>
-<img src='https://github.com/ITPrototype/hash_cracker_lite/project.png'><br>
+<img src='https://github.com/ITPrototype/hash_cracker_lite/blob/main/project.PNG'><br>
 <p>Hashni kiritamiz</p>
 <p>Kutamiz</p>
-<img src='https://github.com/ITPrototype/hash_cracker_lite/project2.png'>
+<img src='https://github.com/ITPrototype/hash_cracker_lite/blob/main/project2.PNG'>
 <p>Natija!</p>
 
 <p>PS: to'gri hashcatday mukammal emas)</p>
